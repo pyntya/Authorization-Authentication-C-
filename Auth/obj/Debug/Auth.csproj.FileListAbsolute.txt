@@ -1,0 +1,10 @@
+c:\users\вадим\documents\visual studio 2017\Projects\Auth\Auth\bin\Debug\Auth.exe.config
+c:\users\вадим\documents\visual studio 2017\Projects\Auth\Auth\bin\Debug\Auth.exe
+c:\users\вадим\documents\visual studio 2017\Projects\Auth\Auth\bin\Debug\Auth.pdb
+c:\users\вадим\documents\visual studio 2017\Projects\Auth\Auth\obj\Debug\Auth.csprojResolveAssemblyReference.cache
+c:\users\вадим\documents\visual studio 2017\Projects\Auth\Auth\obj\Debug\Auth.Properties.Resources.resources
+c:\users\вадим\documents\visual studio 2017\Projects\Auth\Auth\obj\Debug\Auth.csproj.GenerateResource.Cache
+c:\users\вадим\documents\visual studio 2017\Projects\Auth\Auth\obj\Debug\Auth.exe
+c:\users\вадим\documents\visual studio 2017\Projects\Auth\Auth\obj\Debug\Auth.pdb
+c:\users\вадим\documents\visual studio 2017\Projects\Auth\Auth\obj\Debug\Auth.About.resources
+c:\users\вадим\documents\visual studio 2017\Projects\Auth\Auth\obj\Debug\Auth.Main.resources
