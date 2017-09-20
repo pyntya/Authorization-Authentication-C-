@@ -62,5 +62,10 @@ namespace Auth
             textBox1.Text += ("SID: " + SID + Environment.NewLine);
 
         }
+
+        private void buttonExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
