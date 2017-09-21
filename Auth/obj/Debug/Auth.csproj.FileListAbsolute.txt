@@ -8,3 +8,6 @@ c:\users\вадим\documents\visual studio 2017\Projects\Auth\Auth\obj\Debug\Au
 c:\users\вадим\documents\visual studio 2017\Projects\Auth\Auth\obj\Debug\Auth.pdb
 c:\users\вадим\documents\visual studio 2017\Projects\Auth\Auth\obj\Debug\Auth.About.resources
 c:\users\вадим\documents\visual studio 2017\Projects\Auth\Auth\obj\Debug\Auth.Main.resources
+C:\Users\Вадим\documents\visual studio 2017\Projects\Auth\Auth\bin\Debug\Users.mdf
+C:\Users\Вадим\documents\visual studio 2017\Projects\Auth\Auth\bin\Debug\Users_log.ldf
+C:\Users\Вадим\documents\visual studio 2017\Projects\Auth\Auth\obj\Debug\Auth.Login.resources

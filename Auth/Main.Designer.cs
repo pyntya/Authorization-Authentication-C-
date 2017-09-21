@@ -54,7 +54,7 @@
             this.справкаToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(414, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(838, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -154,11 +154,6 @@
             this.usersListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.usersListBox.FormattingEnabled = true;
             this.usersListBox.ItemHeight = 16;
-            this.usersListBox.Items.AddRange(new object[] {
-            "Admin",
-            "User1",
-            "User2",
-            "User3"});
             this.usersListBox.Location = new System.Drawing.Point(13, 28);
             this.usersListBox.Name = "usersListBox";
             this.usersListBox.Size = new System.Drawing.Size(205, 148);
@@ -172,6 +167,7 @@
             this.buttonLogin.TabIndex = 4;
             this.buttonLogin.Text = "Login";
             this.buttonLogin.UseVisualStyleBackColor = true;
+            this.buttonLogin.Click += new System.EventHandler(this.buttonLogin_Click);
             // 
             // buttonExit
             // 
@@ -187,7 +183,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(414, 317);
+            this.ClientSize = new System.Drawing.Size(838, 317);
             this.Controls.Add(this.buttonExit);
             this.Controls.Add(this.buttonLogin);
             this.Controls.Add(this.usersListBox);
@@ -196,6 +192,7 @@
             this.Controls.Add(this.menuStrip1);
             this.Name = "Main";
             this.Text = "Лабораторная работа №1";
+            this.Load += new System.EventHandler(this.Main_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
